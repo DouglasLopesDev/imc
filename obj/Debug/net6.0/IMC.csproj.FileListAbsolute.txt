@@ -1,0 +1,17 @@
+C:\Users\douglas.silva\IMC\obj\Debug\net6.0\IMC.csproj.AssemblyReference.cache
+C:\Users\douglas.silva\IMC\obj\Debug\net6.0\IMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\douglas.silva\IMC\obj\Debug\net6.0\IMC.AssemblyInfoInputs.cache
+C:\Users\douglas.silva\IMC\obj\Debug\net6.0\IMC.AssemblyInfo.cs
+C:\Users\douglas.silva\IMC\obj\Debug\net6.0\IMC.csproj.CoreCompileInputs.cache
+C:\Users\douglas.silva\IMC\bin\Debug\net6.0\IMC.exe
+C:\Users\douglas.silva\IMC\bin\Debug\net6.0\IMC.deps.json
+C:\Users\douglas.silva\IMC\bin\Debug\net6.0\IMC.runtimeconfig.json
+C:\Users\douglas.silva\IMC\bin\Debug\net6.0\IMC.dll
+C:\Users\douglas.silva\IMC\bin\Debug\net6.0\IMC.pdb
+C:\Users\douglas.silva\IMC\obj\Debug\net6.0\IMC.dll
+C:\Users\douglas.silva\IMC\obj\Debug\net6.0\refint\IMC.dll
+C:\Users\douglas.silva\IMC\obj\Debug\net6.0\IMC.pdb
+C:\Users\douglas.silva\IMC\obj\Debug\net6.0\IMC.genruntimeconfig.cache
+C:\Users\douglas.silva\IMC\obj\Debug\net6.0\ref\IMC.dll
+C:\Users\douglas.silva\IMC\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\douglas.silva\IMC\obj\Debug\net6.0\IMC.csproj.CopyComplete

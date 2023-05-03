@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Wao8a5chsm9nIw71DdpWfzOiF4yHN+yNmxRhi6PMzGejB3gRRHG+wJzVz5aVWkRzPY5t4nN8EI59zm0TJD84pA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\douglas.silva\\IMC\\IMC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\douglas.silva\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
